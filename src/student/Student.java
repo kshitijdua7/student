@@ -8,7 +8,7 @@ package student;
  *
  * @author kshit
  */
-public class Student {
+public class Stud cv7yh7y chvy77y cent {
 
     /**
      * @param args the command line arguments
